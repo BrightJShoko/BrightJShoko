@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bright J Shoko
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning on Application development 
-- 💞️ I’m looking to collaborate on software development 
+- 👀 I’m interested in Software Engineering, Mobile Application Development , Website Development, Artificial intelligence and Cyber security research
+- 🌱 I’m currently learning Artificial intelligence and Next js 
+- 💞️ I’m looking to collaborate on software development and AI
 - 📫 How to reach me ..
 
 <!---
